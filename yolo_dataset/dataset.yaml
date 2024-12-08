@@ -1,0 +1,6 @@
+names:
+  0: pollution
+nc: 1
+path: C:\Users\vladi\Downloads\Telegram Desktop\AWSD\yolo_dataset
+train: train/images
+val: val/images
